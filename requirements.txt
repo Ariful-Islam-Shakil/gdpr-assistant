@@ -1,0 +1,10 @@
+pymupdf
+tiktoken
+pypdf
+faiss-cpu
+sentence-transformers
+google-genai
+python-dotenv
+numpy
+rank_bm25
+streamlit
